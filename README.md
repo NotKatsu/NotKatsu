@@ -12,7 +12,7 @@
     ;3=*^```"*4EEV :EEEEEEttttt33@.    ------------------
     ,.=::::!t=., ` @EEEEEEtttz33QF     OS: Windows 11 Home x86_64
    ;::::::::zt33)   "4EEEtttji3P*      Shell: Powershell
-  :t::::::::tt33.:Z3z..  `` ,..g.      Repositories: 5
+  :t::::::::tt33.:Z3z..  `` ,..g.      Repositories: 6
   i::::::::zt33F AEEEtttt::::ztF       Discord Username: Katsu#8890
  ;:::::::::t33V ;EEEttttt::::t3        Discord ID: 1052982721598738522
  E::::::::zt33L @EEEtttt::::z3F        
