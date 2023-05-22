@@ -16,8 +16,8 @@
   i::::::::zt33F AEEEtttt::::ztF       Discord Username: Katsu#8890
  ;:::::::::t33V ;EEEttttt::::t3        Discord ID: 1052982721598738522
  E::::::::zt33L @EEEtttt::::z3F        
-{3=*^```"*4E3) ;EEEtttt:::::tZ`        Skills: GoLang, Python, MongoDB, SQL.
-             ` :EEEEtttt::::z7         Learning: C++, JS.
+{3=*^```"*4E3) ;EEEtttt:::::tZ`        Skills: Python, C++, GoLang, MongoDB, SQL.
+             ` :EEEEtttt::::z7         Learning: TypeScript, React.
                  "VEzjt:;;z>*`         
                                        
 ```
