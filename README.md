@@ -29,6 +29,6 @@
 ```
 class NotKatsu:
     def  __init__(self):
-    self.GitHub = "https://github.com/NotKatsu"
-    self.Website = "https://katsu.bio/" 
+        self.GitHub = "https://github.com/NotKatsu"
+        self.Website = "https://katsu.bio/" 
 ```
